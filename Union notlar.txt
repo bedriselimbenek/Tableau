@@ -1,0 +1,15 @@
+To union your data in Tableau data source, the tables must come from the same connection.
+Verilerinizi Tableau veri kaynağında birleştirmek için tabloların aynı bağlantıdan gelmesi gerekir.
+
+The tables that you combine using a union must have the same structure for best results.
+Birleşim kullanarak birleştirdiğiniz tabloların en iyi sonuçlar için aynı yapıya sahip olması gerekir.
+
+Each table must have the same number of fields, and related fields must have matching field names and data types for union.
+Her tablo aynı sayıda alana sahip olmalı ve ilgili alanlar, birleştirme için eşleşen alan adlarına ve veri türlerine sahip olmalıdır.
+
+
+You can union your data to combine two or more tables by appending values (rows) from one table to another.
+Bir tablodan diğerine değerler (satırlar) ekleyerek iki veya daha fazla tabloyu birleştirmek için verilerinizi birleştirebilirsiniz.
+
+
+
